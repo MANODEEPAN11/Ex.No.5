@@ -151,18 +151,12 @@ The second prompt does not start from zero. It uses the previous response as con
 
 ---
 
-# Key Findings
-
-1. Initial prompts generally produce broad responses.
-2. The next prompt can use the previous output as context.
-3. Chain prompting improves the specificity of responses.
-4. Adding requirements improves completeness.
-5. Specifying the audience improves the explanation level.
-6. Output-format instructions improve readability.
-7. Chain prompting is especially useful for complex tasks.
-8. Simple prompts can still be sufficient for straightforward questions.
-9. Prompt quality is more important than simply increasing prompt length.
-
+Summary of Findings
+Initial prompts gave general responses.
+Chain/refinement prompts produced more relevant and detailed outputs.
+Adding context, requirements, and format improved response quality.
+Simple prompts worked well for simple tasks.
+Overall, prompt chaining improved clarity, completeness, and depth.
 ---
 
 # Result
