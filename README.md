@@ -150,13 +150,14 @@ The second prompt does not start from zero. It uses the previous response as con
 | Depth | 3/5 | 5/5 |
 
 ---
+**Summary of Findings**
 
-Summary of Findings
-Initial prompts gave general responses.
-Chain/refinement prompts produced more relevant and detailed outputs.
-Adding context, requirements, and format improved response quality.
-Simple prompts worked well for simple tasks.
-Overall, prompt chaining improved clarity, completeness, and depth.
+Initial prompts gave general responses. 
+Chain/refinement prompts produced more relevant and detailed outputs. 
+Adding context, requirements, and format improved response quality. 
+Simple prompts worked well for simple tasks. 
+Overall, prompt chaining improved clarity, completeness, and depth. 
+
 ---
 
 # Result
