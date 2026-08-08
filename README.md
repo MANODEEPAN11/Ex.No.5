@@ -150,7 +150,7 @@ The second prompt does not start from zero. It uses the previous response as con
 | Depth | 3/5 | 5/5 |
 
 ---
-**Summary of Findings**
+# Summary of Findings:
 
 Initial prompts gave general responses. 
 
